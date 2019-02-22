@@ -1,4 +1,4 @@
-##Brain Tensor Decomposition
+## Brain Tensor Decomposition
 The present folder contains sample work from dimensionality reduction based feature analysis in Parkinson's Brain imaging.
 
 ### Dependencies
